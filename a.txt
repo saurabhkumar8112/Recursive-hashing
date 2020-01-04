@@ -1,0 +1,6 @@
+lam san
+man sal
+sal man
+san lam
+-1
+time: 87879068 nanos

@@ -1,0 +1,104 @@
+rid vest
+vest rid
+-1
+-1
+bid pont
+bind opt
+bind pot
+bind top
+bit pond
+bond pit
+bond tip
+bop dint
+dint bop
+opt bind
+pit bond
+pond bit
+pont bid
+pot bind
+tip bond
+top bind
+-1
+logo orr
+orr logo
+-1
+ego mutt
+gem tout
+got mute
+gout met
+gum tote
+gut tome
+meg tout
+met gout
+mug tote
+mute got
+mute tog
+mutt ego
+tog mute
+tome gut
+tome tug
+tote gum
+tote mug
+tout gem
+tout meg
+tug tome
+-1
+his otis
+hiss ito
+hot isis
+isis hot
+ito hiss
+otis his
+-1
+awn blue
+blue awn
+blue wan
+bun wale
+bun weal
+ulan web
+wale bun
+wan blue
+weal bun
+web ulan
+-1
+ell sang
+ell snag
+gal lens
+gall sen
+gas nell
+glen sal
+gsa nell
+lag lens
+len slag
+lens gal
+lens lag
+nag sell
+nell gas
+nell gsa
+nell sag
+sag nell
+sal glen
+sang ell
+sell nag
+sen gall
+slag len
+snag ell
+-1
+cop worm
+corp mow
+cow prom
+cow romp
+crop mow
+crow mop
+mop crow
+mow corp
+mow crop
+prom cow
+romp cow
+worm cop
+-1
+fun wipe
+pun wife
+wife pun
+wipe fun
+-1
