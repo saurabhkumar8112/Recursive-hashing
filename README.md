@@ -1,4 +1,4 @@
-# recursive-hashing
+# Recursive hashing and cleaning for efficient searching
 Run code by running Anagram.java file from command line terminal.
 
 # Recrusive Hashing for Anagram finding from a list of vocabulary dictionaries
